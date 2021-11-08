@@ -2017,10 +2017,10 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@^0.25.3":
-  version "0.25.3"
-  resolved "https://registry.yarnpkg.com/@pancakeswap-libs/uikit/-/uikit-0.25.3.tgz#4c333c7af1772ffe882c0f1ee365de4edf2033ea"
-  integrity sha512-+lRdMrI+pWG0Gedj94kYc1F9iz2whugG4R0iZq5tKv5mn3tQgqdsTn94g1+f7Jb7B9yeI6UsUFmMFzcmz1OLnw==
+"@pancakeswap-libs/uikit@^0.29.4":
+  version "0.29.4"
+  resolved "https://registry.yarnpkg.com/@pancakeswap-libs/uikit/-/uikit-0.29.4.tgz#3c28d1c8ced84feb87ebf3c8a64ab32d97b3f148"
+  integrity sha512-imXRUtv2RHR6vI+KMA4vTyBecznN0hIh45T4dn48MzqdFsLXJLEg06R4A8ba/1wF8P+ntpvCDEfvjYORBkL6bg==
   dependencies:
     "@popperjs/core" "^2.9.2"
     "@types/lodash" "^4.14.168"
@@ -10725,8 +10725,6 @@ postcss-focus-visible@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/postcss-focus-visible/-/postcss-focus-visible-4.0.0.tgz#477d107113ade6024b14128317ade2bd1e17046e"
   integrity sha512-Z5CkWBw0+idJHSV6+Bgf2peDOFf/x4o+vX/pwcNYrWpXFrSfTkQ3JQ1ojrq9yS+upnAlNRHeg8uEwFTgorjI8g==
-  dependencies:
-    postcss "^7.0.2"
 
 postcss-focus-within@^3.0.0:
   version "3.0.0"
